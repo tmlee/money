@@ -27,4 +27,18 @@
     "thousands_separator": ",",
     "iso_numeric": ""
   }
+  "doge": {
+    "priority": 100,
+    "iso_code": "DOGE",
+    "name": "Dogecoin",
+    "symbol": "Ð",
+    "alternate_symbols": [],
+    "subunit": "Doge",
+    "subunit_to_unit": 100000000,
+    "symbol_first": true,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": ""
+  },
 }
